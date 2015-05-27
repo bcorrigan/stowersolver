@@ -1,0 +1,12 @@
+[package]
+name = "stower"
+version = "0.0.1"
+authors = [
+	"Barry Corrigan <b.j.corrigan@gmail.com>"
+]
+
+description = "Spell tower solver"
+license = "GPL"
+
+[dependencies]
+#radix_trie = "0.0.2"
